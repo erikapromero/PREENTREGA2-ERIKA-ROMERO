@@ -1,0 +1,31 @@
+
+.carafeliz {
+    color: #00D8DD; 
+}
+
+h1 {
+    color: #000000; font-size:55px; font-family:'Montserrat', sans-serif;
+}
+.navbar-light .navbar-nav .nav-link {
+color: #000000;
+}
+.navbar-light .navbar-nav .nav-link:hover {
+    background-color: #00D8DD;
+    color:#000000;
+}
+.active {
+    background-color: #F8D710;
+}
+.navbar-collapse {
+    flex-wrap: 0;
+}
+
+
+
+.container .container-fluid .container-lg .container-md .container-sm .container-xl .container-xxl {
+    width:0px;
+}
+
+footer {
+    background-color:  #EDEDED; 
+    }
